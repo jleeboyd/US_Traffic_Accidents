@@ -1,5 +1,7 @@
 # US_Traffic_Accidents
-Data Analysis of Traffic Accidents in the US
+__Data Analysis of Traffic Accidents in the US__
+<br/>
+_Note: This file requires Jupyter Notebook and Python libraries mentioned in the file in order to run_
 
 - Accidents per State
 - Accidents per State with repect to Population
